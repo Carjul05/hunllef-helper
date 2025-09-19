@@ -1,0 +1,10 @@
+{
+  "id": "hunllef-helper",
+  "name": "Hunllef Helper",
+  "description": "Draws an outline over Hunllef based on its attack style and flashes red if the player is not protected correctly.",
+  "tags": ["pvm", "prayer", "overlay", "hunllef"],
+  "authors": ["carjul05"],
+  "version": "1.0",
+  "repo": "https://github.com/carjul05/hunllef-helper",
+  "dependencies": []
+}
